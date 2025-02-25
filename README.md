@@ -5,6 +5,39 @@ Nombre del estudiante: JUAN SEBASTIAN NIETO CONTRERA
 Id.: 000474009
 ---
 ***Bitacora***
+**unidad 1, actividad 2**
+Ejercicio 2 
+1.	Si se borra el directorio, se elimina todo el historial de cambio y la información de control de versiones de ese repositorio git y solo quedará guardado en la nube, hasta el último push
+2.	El directorio y los archivos seguirán funcionando de la misma manera, solo que ruta se hace más larga 
+3.	Es importante porque git usa esta información para identificar al autor de los commits
+4.	Git config –-global user.name “nombre”
+5.	Git config –-global user.email email@ej.com
+6.	Git config –-list  
+7.	Se debe configurar el nombre y el correo en esa computadora.
+8.	Git init 
+9.	Se vuelve un repositorio git, qe guarda los archivos para el control de versión
+10.	Dir /a 
+11.	Git status muestra el estado actual del repositorio local y los archivos que faltan por commits  
+12.	Indica que estás trabajando en la rama principal
+13.	Significa que no se ha realizado ningún commit en el repositorio.
+14.	Significa que no hay cambios, que cree o copie archivos y use git add para rastearlos.
+15.	Una ramaes una línea independiente de desarrollo que permite trabajar en nuevas características o correcciones sin afectar la rama principal 
+16.	Permite aislar los cambios y trabajos de manera independiente, sin afectar el código principal hasta que esté listo.
+17.	Git merge (fusión) git rebase 
+18.	Git touch texto.txt
+19.	Indica que el archivo no está rastreado y pide usar el comando git add .
+20.	Git add nombre_delarchivo
+21.	Es un paso momentáneo donde se alistan los archivos para realizar los commits
+22.	Git reset
+23.	Git commit -m “mensaje” 
+24.	 Rasterar los archivos “git add.” Luego, realizar un commit seguido del “git push”
+25.	 Git checkout –- archivo.txt 
+26.	Git log 
+27.	Git checkout <hash_del_commit>
+28.	Dashed HEAD significa que no está ubicado en ninguna rama, sino en un commit específico del historial
+29.	Git checkout main 
+30.	Git revert crea un commit que deshace los cambios de un commit anterior, sin eliminar el historial.
+
 **unidad 2, actividad 1**
 1. es una maquina electrónica programable capaz de procesar datos y 
 realizar operaciones complejas de manera automatica y eficiente.
