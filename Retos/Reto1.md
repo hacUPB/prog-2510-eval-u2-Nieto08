@@ -24,7 +24,7 @@
 21. fin del mientras 
 22. Escribir “la distancia entre los puntos es” d 
 23. FIN
-- ![Diagrama1](prog-2510-eval-u2-Nieto08\Retos\imagenes\d1.png)
+- ![Diagrama1](Retos/imagenes/d1.png)
 
  
  
