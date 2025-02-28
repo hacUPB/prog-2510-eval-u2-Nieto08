@@ -10,5 +10,4 @@
 08. fin del si 
 09. escribir “la hipotenusa es” h 
 10. FIN 
-- ![Diagrama3](Retos/imagenes/  )
-- ![Diagrama3](Retos/imagenes/  )
+- ![Diagrama3](imagenes/d3.png)
