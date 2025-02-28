@@ -9,11 +9,11 @@
 08. Escribir “escriba el número: ” 
 09. Leer n
 10. Si n>0 
-11.	 c_may+= 1
+11.	    c_may+= 1
 12. Si 
-13.	 c_men+= 1 
+13.	    c_men+= 1 
 14. si no 
-15.  c_cero += 1
+15.      c_cero += 1
 16. fin del si
 17. fin del mientras
 18. escribir c_may, c_men. c_cero. 	
