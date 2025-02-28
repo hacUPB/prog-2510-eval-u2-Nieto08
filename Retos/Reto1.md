@@ -1,5 +1,5 @@
 **Reto1**
-- pseucódigo
+- pseudocódigo
 1. INICIO 
 2. Leer x1, y1, x2, y2 
 3. Mientras y1 diferente de y2 y x1 diferente de x2
@@ -17,14 +17,15 @@
 14. dendo= may1 – men1 
 15. sor= may2 - men2 
 16. si sor=0 
-17.     escribir “error div 0”
+17.    escribir “error div 0”
 18. si no
-19.     d= dendo/sor 
+19.    d= dendo/sor 
 20. fin del si
 21. fin del mientras 
 22. Escribir “la distancia entre los puntos es” d 
 23. FIN
 - ![Diagrama1](Retos/imagenes/d1.png)
+- ![Diagrama1.1] (Retos/imagenes/d1.png)
 
  
  
