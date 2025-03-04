@@ -56,14 +56,39 @@ realizar operaciones complejas de manera automatica y eficiente.
 5. funciamiento del compuntador 
     a. primero se energía la motherboard, se realiza la autoprueba de la BIOS, se ejecuta el firmware almacenado en la ROM, BIOS consulta la configuracion de arranque, el kernel se carga en la memoria RAM y toma control del hardware y se carga el sistema operativo con el entorno de usuario.
     b. 
-
-1. Is
-2. 2^n 
+**Unidad 2, actividada 2**
+***ejercicio 1***
+1. los datos se representan mediante el sistema binario, eventualmente toda la informacion se converitirá en binario, fotos, letras, numeros etc.
+2. los booleanos tienen 2 estados, (0 o 1), por lo que con N bits, se pueden representar 2^N
 3. Bit, byte, kilobyte, megabytes, gigabyte, terabyte, pentabyte 
-4. Importancia del trabajo de bool
+4. George Boole fue un matemátioco cuyo trabajo sentó las bases de la lógica binaria y el álgebra boolenana, escenciales para el funciomanto de las computadoras modernas, fue fundamental para el diseño de circuitos y sofware.
+***ejercicio 2***
+- bin a dec
+1. 682 
+2. 31 
+3. 128
+4. 292 
+- dec a bin 
+1. 1111111
+2. 11110110
+3. 10000000001
+4. 101100010
+***ejercicio 3 y 4***
+- c: int(entero), short(enteros de menor rango), long(enteros de mayor rango), float(decimales), double(decimales con doble precisión), char(un solo carácter), _bool
+- java: int, short, long, float, double, char, string(txt), boolean
+- python: int, float, str. bool, list, tuple (coleccion ordenada inmutable), dict (coleccion de pares clave- valor) 
+***ejercicio 5***
+- tamaño de registro = 4b+4b+1b+10b= 19 bytes 
+- 60s/min*60min/h=3600 sg/h
+-3600seg/h*24h = 86400sg 
+- 86400/10= 8640 registros totales 
+- 19 bytes* 8640= 164160bytes
+***ejercicio 6***
+- utilizar binario ayuda que el proceso de lectura sea mas corto, por lo que ayuda a hacer más rápido el sofware, sin embargo es muy tardado ir pasao a paso convirtiendo todo al binario, tambien, a la hora que dar instrucciones al computador hay que ser precisos y claros, para evitar errores. 
 **Bibliografia**
 1. la mayor parte de este trabajo se hizo con ayuda de deepseek y de los siguientes sitios webs  
 2. que es una computadora [condepto.de](https://concepto.de/computadora/)
 3. Diferencias RISC y CISC [profesionalreview](https://www.profesionalreview.com/2021/07/18/risc-vs-cisc/)
 4. Componentes del Hardware [Techopedia](https://www.techopedia.com/definition/2210/hardware) [IEEE](https://www.ieee.org/)
 5. que es el software [techopedia](https://www.techopedia.com/definition/4356/software) 
+6. tabla ASCII recuperado de [Ascii](https://www.asciitable.com/)
