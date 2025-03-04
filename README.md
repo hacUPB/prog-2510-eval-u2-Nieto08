@@ -88,7 +88,9 @@ realizar operaciones complejas de manera automatica y eficiente.
 **unidad 3**
 ***ejercicio 1*** 
 - de arriba a abajo y de izquierda a derecha
-![imagen_readme1](/retos/imagenes/readme1.png)
+- 
+[imagen_readme1](./retos/imagenes/readme1.png)
+
 1. primero (rectangulo): proceso 
 2. segundo (paralelograma): entrada de datos
 3. tercero: subrutina 
