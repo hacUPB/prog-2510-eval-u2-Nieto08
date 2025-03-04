@@ -88,7 +88,9 @@ realizar operaciones complejas de manera automatica y eficiente.
 **unidad 3**
 ***ejercicio 1*** 
 - de arriba a abajo y de izquierda a derecha
-- 
+
+- ![image](https://github.com/user-attachments/assets/a7fdefd3-d09c-4c58-8b0e-e9ede3d66b87)
+
 [imagen_readme1](Retos/imagenes/readme1.png)
 
 1. primero (rectangulo): proceso 
