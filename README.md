@@ -85,6 +85,49 @@ realizar operaciones complejas de manera automatica y eficiente.
 - 19 bytes* 8640= 164160bytes
 ***ejercicio 6***
 - utilizar binario ayuda que el proceso de lectura sea mas corto, por lo que ayuda a hacer más rápido el sofware, sin embargo es muy tardado ir pasao a paso convirtiendo todo al binario, tambien, a la hora que dar instrucciones al computador hay que ser precisos y claros, para evitar errores. 
+**unidad 3**
+***ejercicio 1*** 
+- de arriba a abajo y de izquierda a derecha
+![imagen_readme1](/retos/imagenes/readme1.png)
+1. primero (rectangulo): proceso 
+2. segundo (paralelograma): entrada de datos
+3. tercero: subrutina 
+4. cuarto: inicio y fin 
+5. quinto: documentacion
+6. sexto: database
+7. septimo: proceso alternativo 
+8. octavo: multi-document
+9. noveno: almacenamiento
+10. décimo (rombo): decision
+11. undécimo: informacion de almacenamiento
+12. duodécimo: magnetic tape  
+***ejercicio 2***
+1. algoritmos 
+- no es un algoritmo, es un conjuto de elementos visuales
+- si es un algoritmo, es una secuencia ordenada de pasos para lograr un resultado.
+- no es un algoritmo, es un proceso
+- si es un algoritmo, secuencia ordenada de pasos para lograr un objetivo.
+- no es un algoritmo, es solo una organizacion de datos.
+2. variables y constantes
+- constante: la gravedad en la tierra no es dependiente.
+- variable: varia de persona a persona.
+- variable: aumenta o disminuye, es dependiente.
+- constante: valor fijo 
+- variable: depende de un circulo específico y de las ecuaciones que se les quiere hacer.
+3. características de los algoritmos.
+- si cumple: es un proceso finito 
+- si cumple: secuencia clara de pasos 
+- si cumple: es un proceso definido y ordenado.
+- si cumple: es un proceso finito y con un criterio de parada claro 
+4. compresión de herramientas
+- Falso, el pseudocódigo usa lengua natrual
+- Verdadero, los diagramas de flujo representan visualmente los pasos del algoritmo.
+- Falso, el pseudocódigo es independientedel lenguaje de programacion.
+- Verdadero, todo diagrama de flujo debe comenzar y terminar de manera clara. 
+5. estrucutras de control
+- permiten dirigir el flujo de ejecución de un programa, tomamdo decisiones o repitiendo acciones.
+1. ejemplo1: Si tengo hambre, como algo; si no, sigo trabajando. Aquí se usa una estructura condicional
+2. ejeplo2: Si el resultado de una ecuación es mayor que 10, se multiplica por 2; si no, se divide entre 2. Aquí se usa una estructura condicional 
 **Bibliografia**
 1. la mayor parte de este trabajo se hizo con ayuda de deepseek y de los siguientes sitios webs  
 2. que es una computadora [condepto.de](https://concepto.de/computadora/)
@@ -92,3 +135,6 @@ realizar operaciones complejas de manera automatica y eficiente.
 4. Componentes del Hardware [Techopedia](https://www.techopedia.com/definition/2210/hardware) [IEEE](https://www.ieee.org/)
 5. que es el software [techopedia](https://www.techopedia.com/definition/4356/software) 
 6. tabla ASCII recuperado de [Ascii](https://www.asciitable.com/)
+7. documentacion oficial de c[GNU](https://www.gnu.org/software/gnu-c-manual/)
+8. tipos de datos en java [Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+9. tipos de datos en python [python](https://docs.python.org/3/library/stdtypes.html)
