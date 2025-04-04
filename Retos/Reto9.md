@@ -1,15 +1,20 @@
 **Reto9**
-"""
-01. INICIO 
-02. escrbir "¿cuantas veces dese elevar a e?"
-03. leer n
-04. mientras n>0
-05. para n entre (1,n-1)
-06. si n==1 
-07.     e^x+=n^1/1
-08. si no 
-09.     e^x+=n^n-1/factorial de n
-10. fin si
-11. fin mientras
-12. FIN 
-"""
+---
+pseudocódigo
+
+    01. INICIO 
+    02. escribir x
+    03. leer x
+    04. factorial=1
+    05. fx = 1
+    06. cnt = 1
+    07. mientras x<=0
+    08.    escribir x
+    09. fin del mientras
+    10. para x desde 1 hasta x-1
+    11.     factorial*= cnt 
+    12.     fx+= (x^cnt)/factorial
+    13.     cnt+= 1    
+    14. fin para
+    15. FIN
+--- 

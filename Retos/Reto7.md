@@ -1,14 +1,17 @@
 **Reto 7**
-"""
-1. INICIO
-2. i=1
-3. diario=1 
-4. Para i en rango (1,366)	
-5.      diario*=3
-6.      i+=1
-7.      Escribir diario
-8. fin del para 
-9. ahorro_año= diario*0.01
-10. escribir “el ahorro al año fue de” ahorro_año
-11. FIN
-"""
+---
+pseudocódigo
+
+    1. INICIO
+    2. dia=1
+    3. ahorro_diario= 1
+    4. ahorro_año= 0 
+    5. para dia desde 1 hasta 365
+    6.      ahorro_diario *= 3
+    7.      dia+=1
+    8.      ahorro_año += ahorro_diario 
+    9.      Escribir ahorro_diario
+    10. fin del para 
+    11. escribir "el ahorro al año fue de {ahorro_año}¢"
+    12. FIN
+---
