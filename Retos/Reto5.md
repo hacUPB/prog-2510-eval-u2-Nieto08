@@ -1,4 +1,5 @@
 **Reto 5**
+"""
 01. INICIO
 02. Leer pago_hora, horas_trabajadas
 03. Si horas_trabajadas entre (0,40)
@@ -12,3 +13,4 @@
 11. fin si 
 12. Escribir  f“su pago semanal es de {pago_semanal}”
 13. FIN
+"""

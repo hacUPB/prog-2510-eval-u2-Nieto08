@@ -1,4 +1,5 @@
 **Reto 7**
+"""
 1. INICIO
 2. i=1
 3. diario=1 
@@ -10,3 +11,4 @@
 9. ahorro_año= diario*0.01
 10. escribir “el ahorro al año fue de” ahorro_año
 11. FIN
+"""

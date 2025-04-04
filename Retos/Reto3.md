@@ -1,5 +1,6 @@
 **Reto 3**
 - Pseudocódigo
+"""
 01. INICIO 
 02. Leer c1, c2 
 03. Sí c1=0 ó c2=0 
@@ -10,4 +11,5 @@
 08. fin del si 
 09. escribir “la hipotenusa es” h 
 10. FIN 
+"""
 - ![Diagrama3](imagenes/d3.png)

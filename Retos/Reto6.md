@@ -1,4 +1,5 @@
 **Reto 6**
+"""
 01. INICIO
 02. Escrinir “¿desea ingresar otro número?”
 03. Leer pregunta
@@ -18,3 +19,4 @@
 17. fin del mientras
 18. escribir c_may, c_men. c_cero. 	
 19. FIN
+"""

@@ -1,5 +1,6 @@
 **Reto 4**
 01. INICIO 
+"""
 02. Escribir “escriba el día, mes y año cuando nació”
 03. Leer día1, mes1, año1
 04. Escribir “escriba la fecha actual, día, mes, año”
@@ -41,3 +42,4 @@
 40. fin del mientras
 41. fin del mientras 
 42. FIN
+"""

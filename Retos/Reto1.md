@@ -1,9 +1,10 @@
 **Reto1**
 - pseudocódigo
+"""
 1. INICIO 
 2. Leer x1, y1, x2, y2 
 3. Mientras y1 diferente de y2 y x1 diferente de x2
-4. si 2>y1 
+4. si y2>y1 
 5.  men1= y1 
 5.  may1= y2 
 6. si no 
@@ -24,6 +25,7 @@
 21. fin del mientras 
 22. Escribir “la distancia entre los puntos es” d 
 23. FIN
+"""
 - ![Diagrama1](imagenes/d1.png)
 - ![Diagrama1.1](imagenes/d1_1.png) 
 

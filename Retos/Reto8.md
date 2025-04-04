@@ -1,4 +1,5 @@
 **Reto 8**
+"""
 01. INICIO
 02. Escribir “¿desea agregar un artículo?” 
 03. Leer pregunta
@@ -21,3 +22,4 @@
 20. fin del mientras 
 21. escríbame f“el total es de {total}” 
 22. FIN
+"""
