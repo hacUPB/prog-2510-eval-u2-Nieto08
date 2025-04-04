@@ -1,16 +1,26 @@
 **Reto 5**
-"""
-01. INICIO
-02. Leer pago_hora, horas_trabajadas
-03. Si horas_trabajadas entre (0,40)
-04.     Pago_semanal= pago_hora*horas_trabajadas 
-05. Si horas_trabajadas entre (41,45)
-06.     Pago_semanal= pago_hora*horas_trabajadas*2 
-07. Si horas_trabajadas entre (46,50)
-08.     Pago_semanal= (pago_hora*horas_trabajadas)3
-09. Si no
-10.     Escribir “máximo de horas más de 50, hablar con recursos humanos” 
-11. fin si 
-12. Escribir  f“su pago semanal es de {pago_semanal}”
-13. FIN
-"""
+---
+pseudocódigo
+
+    01. INICIO 
+    02. escrbir pago_hora, horas_trabajadas
+    03. Leer pago_hora, horas_trabajadas
+    04. si horas_trabajas>50 o horas_trabajadas<0
+    05.       escribir("Hable con recursos humanos")
+    06. si no
+    07.     si horas_trabajadas<=40
+    08.        pago= horas_trabajadas * pago_horas
+    09.     si no 
+    10.        pago= 40 * pago_horas         # 40 son las horas base 
+    11.        horas_extra= horas_trabajadas - 40 
+    12.        si horas_extra<=5 
+    13.           pago+= (horas_extra * pago_ horas * 2)
+    14.        si no 
+    15.           pago+= (5 * pago_ horas * 2)  # pagar rango(40,45)
+    16.           pago+= ((horas_extra-5) * pago_horas * 3) #pagar rango (46,50)
+    17.        fin del si
+    18.     fin del si
+    19. fin del si
+    20. escribir "su pago es de {pago}"
+    21. FIN
+---
