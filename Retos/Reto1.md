@@ -5,7 +5,7 @@ pseudocódigo
     1. INICIO 
     2. Escribir x1, y1, x2, y2 
     3. Leer x1, y1, x2, y2 
-    4. Mientras y2 = y1 o x1 = x2
+    4. Mientras y2 == y1 o x1 == x2
     5.  Escribir y2, x2
     6. fin del mientras
     7.  si y2>y1 
@@ -28,8 +28,4 @@ pseudocódigo
     24. Escribir distanciat
     25. FIN
 ---
-- ![Diagrama1](imagenes/d1.png)
-- ![Diagrama1.1](imagenes/d1_1.png) 
-
- 
- 
+![Diagrama1](imagenes/d1.png)
